@@ -1,1 +1,2 @@
-# kaggle_instacard
+# kaggle_instacart
+Kaggle competition of instcart
